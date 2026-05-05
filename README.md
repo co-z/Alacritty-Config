@@ -1,8 +1,1 @@
-
-{content:   
-    _    _                 _ _   _
-   / \  | | __ _  ___ _ __(_) |_| |_ _   _
-  / _ \ | |/ _` |/ __| '__| | __| __| | | |
- / ___ \| | (_| | (__| |  | | |_| |_| |_| |
-/_/   \_\_|\__,_|\___|_|  |_|\__|\__|\__, |
-                                     |___/ }
+My Alacritty configuration file and themes folder including a ton of nice themes to use. Ready to be cloned and deployed!
